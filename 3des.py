@@ -1,7 +1,3 @@
-<pre><h3>
-책보고 만들었어요
-
-
 from Crypto.Cipher import DES3
 from Crypto.Hash import SHA256 as SHA
 class myDES():
@@ -49,4 +45,4 @@ if __name__=='__main__':
     main()
 
 
-        </pre></h3
+  
