@@ -1,6 +1,3 @@
-<pre><h3>
-책보고 만들었어요
-
 
 
 def makeCodebook() :
@@ -43,5 +40,3 @@ if __name__ == "__main__":
 ##  f.write("")
 ##  content=f.read()
 ##  print(content)
-
-</pre></h3>
